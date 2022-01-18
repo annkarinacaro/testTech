@@ -9,8 +9,7 @@ public class TestTechApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestTechApplication.class, args);
         System.out.println("hello there!");
-        System.out.println("hello there!");
-        System.out.println("hello there!");
+      
     }
 
 }
