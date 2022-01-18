@@ -10,6 +10,7 @@ public class TestTechApplication {
         SpringApplication.run(TestTechApplication.class, args);
         System.out.println("hello there!");
          System.out.println("hello there!");
+        System.out.println("hello there!");
     
 
     }
